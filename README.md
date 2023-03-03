@@ -1,5 +1,9 @@
-## Hi there 👋
-### Data Scientist | Veteran | Linguist | Anime Enthusiast
+# Hi there, I'm Carlo! 👋
+### Data Scientist | Veteran | Anime Enthusiast
+
+
+
+
 <!--
 **carlopdeleon/carlopdeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
