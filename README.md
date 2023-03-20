@@ -2,6 +2,9 @@
 ### Data Scientist | Veteran | Anime Enthusiast
 
 
+-- 🔭 I’m currently working on my capstone project " The STAARs of Texas High Schools." 
+- 🌱 I’m currently learning the ins and outs of data science at Codeup.
+- 👯 I’m looking to collaborate with anyone who wants to turn their interesting ideas into projects. 
 
 
 <!--
@@ -9,9 +12,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on my capstone project " The STAARs of Texas High Schools." 
+- 🌱 I’m currently learning the ins and outs of data science at Codeup.
+- 👯 I’m looking to collaborate with anyone who wants to turn their interesting ideas into projects. 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
