@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on a project with my fellow Codeup Alumni that focuses on Battle Bots.
-- 🌱 I’m currently learning the ins and outs of data science at Codeup.
+- 🌱 I’m currently learning about ETL, Splunk, and Power BI.
 - 👯 I’m looking to collaborate with anyone who wants to turn their interesting ideas into projects. 
 
 
