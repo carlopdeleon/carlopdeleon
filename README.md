@@ -6,8 +6,12 @@
 - 🌱 I’m currently learning about ETL, Splunk, and Power BI.
 - 👯 I’m looking to collaborate with anyone who wants to turn their interesting ideas into projects. 
 
-
+![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=gruvbox)
 ![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=cobalt)
+![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=transparent)
+![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=merko)
+![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=tokyonight)
+
 
 <!--
 **carlopdeleon/carlopdeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
