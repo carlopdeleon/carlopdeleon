@@ -9,14 +9,15 @@
 
 ![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=highcontrast)
 
+-  <img alt="GIF" src="https://i.pinimg.com/originals/59/d6/53/59d6531ea1ad24676a14ae1c41056bf4.gif" width="25" /> &nbsp; I’m currently learning **Splunk**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+
+
 
 <h3 align="left">Languages:</h3>
  
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=white&style=plastic"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=plastic"></a>
-  
-  
   
 <h3 align="left">Libraries:</h3>
 
