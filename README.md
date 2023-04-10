@@ -3,13 +3,12 @@
 
 
 - 🔭 I’m currently working on a project with my fellow Codeup Alumni that focuses on Battle Bots.
-- 🌱 I’m currently learning about ETL, Splunk, and Power BI.
 - 👯 I’m looking to collaborate with anyone who wants to turn their interesting ideas into projects. 
 
 
 ![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=highcontrast)
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Splunk**. <img width="40%" align="right" alt="Github Image" src="https://i.pinimg.com/originals/59/d6/53/59d6531ea1ad24676a14ae1c41056bf4.gif" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Splunk & Power BI**. <img width="40%" align="right" alt="Github Image" src="https://i.pinimg.com/originals/59/d6/53/59d6531ea1ad24676a14ae1c41056bf4.gif" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **DATA**.<br> 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC Building, Anime, or Anything**. <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: If you're not first, you're **Last**.<br>
@@ -69,4 +68,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning about ETL, Splunk, and Power BI.
 -->
