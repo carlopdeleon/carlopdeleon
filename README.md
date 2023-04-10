@@ -7,8 +7,7 @@
 - 👯 I’m looking to collaborate with anyone who wants to turn their interesting ideas into projects. 
 
 
-[![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon)](https://github.com/anuraghazra/github-readme-stats)
-![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=transparent)
+![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=radical)
 
 <!--
 **carlopdeleon/carlopdeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
