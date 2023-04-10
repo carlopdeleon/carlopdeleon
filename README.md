@@ -11,7 +11,8 @@
 ![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=transparent)
 ![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=merko)
 ![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=tokyonight)
-
+![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=highcontrast)
+![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=dracula)
 
 <!--
 **carlopdeleon/carlopdeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
