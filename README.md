@@ -2,7 +2,7 @@
 ### Data Scientist | Veteran | Anime Enthusiast
 
 [![Linkedin Badge](https://img.shields.io/badge/-carlopdeleon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlopdeleon/)](https://www.linkedin.com/in/carlopdeleon/) 
-[![Gmail Badge](https://img.shields.io/badge/-carlopdeleon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlopdeleon@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-carlopdeleon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlopdeleon@gmail.com)](mailto:carlopdeleon@gmail.com)
 
 
 - 🔭 I’m currently working on a project with my fellow Codeup Alumni that focuses on Battle Bots.
