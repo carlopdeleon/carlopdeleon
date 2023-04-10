@@ -26,7 +26,7 @@
   <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-4CBBE5.svg?logo=scipy&logoColor=white"></a>
   <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white"></a>
-  <a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup"></a>
+  <a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup.svg"></a>
  
 <h3 align="left">Database Language:</h3>
 
