@@ -20,27 +20,26 @@
   
 <h3 align="left">Libraries:</h3>
 
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-225366.svg?logo=numpy&logoColor=white"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2A677F.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-337C99.svg?logo=matplotlib-python&logoColor=white"></a>
-  <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-4CBBE5.svg?logo=scipy&logoColor=white"></a>
-  <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white"></a>
-  <a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup.svg"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-225366.svg?logo=numpy&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2A677F.svg?logo=pandas&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-337C99.svg?logo=matplotlib-python&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=pandas&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-4CBBE5.svg?logo=scipy&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="Beautifulsoup" src="https://img.shields.io/badge/-BeautifulSoup-lightblue?style=plastic"></a>
  
 <h3 align="left">Database Language:</h3>
 
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EEFAFF.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EEFAFF.svg?logo=mysql&logoColor=white&style=plastic"></a>
   
 <h3 align="left">Tools:</h3>
 
-<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-4A8B99.svg?logo=Jupyter&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R Studio-315C66.svg?logo=RStudio&logoColor=white"></a>
-<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-25454C.svg?logo=tableau&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-7ce8ff.svg?logo=Trello&logoColor=white"></a>
-<a href="#"><img alt="OS-Mac" src="https://img.shields.io/badge/-OC%20Mac-555555?logo=apple&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-4A8B99.svg?logo=Jupyter&logoColor=white&style=plastic"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white&style=plastic"></a>
+<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-25454C.svg?logo=tableau&logoColor=white&style=plastic"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white&style=plastic"></a>
+<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-7ce8ff.svg?logo=Trello&logoColor=white&style=plastic"></a>
+<a href="#"><img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=plastic"></a>
 
 <!--
 **carlopdeleon/carlopdeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
