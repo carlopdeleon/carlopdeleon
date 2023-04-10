@@ -11,10 +11,10 @@
 
 ![Carlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlopdeleon&show_icons=true&theme=highcontrast)
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Splunk & Power BI**. <img width="40%" align="right" alt="Github Image" src="https://i.pinimg.com/originals/59/d6/53/59d6531ea1ad24676a14ae1c41056bf4.gif" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **DATA**.<br> 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC Building, Anime, or Anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun Quote:  "I'm Going To Colonize This Village With The Scientific Food That Is Ramen" - Senku from Dr.Stone .<br>
+-  <img alt="GIF" src="https://github.com/carlopdeleon/carlopdeleon/blob/main/images/monkey_laptop.gif" width="25" /> &nbsp; I’m currently learning **Splunk & Power BI**. <img width="40%" align="right" alt="Github Image" src="https://i.pinimg.com/originals/59/d6/53/59d6531ea1ad24676a14ae1c41056bf4.gif" /><br>
+- <img src="https://github.com/carlopdeleon/carlopdeleon/blob/main/images/dog.gif" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **DATA**.<br> 
+- <img src="https://github.com/carlopdeleon/carlopdeleon/blob/main/images/question.gif" width="25" />&nbsp;&nbsp; Ask me about **PC Building, Anime, or Anything**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/carlopdeleon/carlopdeleon/blob/main/images/nemo_gif.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun Quote:  "I'm Going To Colonize This Village With The Scientific Food That Is Ramen" - Senku from Dr.Stone .<br>
 
 
 <h3 align="left">Languages:</h3>
