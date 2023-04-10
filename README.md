@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages:</h3>
  
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-00498D.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=white"></a>
    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   
@@ -23,9 +23,9 @@
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=plastic"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=plastic"></a>
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-337C99.svg?logo=matplotlib-python&logoColor=white&style=plastic"></a>
-  <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=pandas&logoColor=white&style=plastic"></a>
-  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-4CBBE5.svg?logo=scipy&logoColor=white&style=plastic"></a>
-  <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?style=plastic"></a>
+  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-F7931E?logo=scikitlearn&logoColor=white&style=plastic"></a>
   <a href="#"><img alt="Beautifulsoup" src="https://img.shields.io/badge/-BeautifulSoup-lightblue?style=plastic"></a>
  
 <h3 align="left">Database Language:</h3>
