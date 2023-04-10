@@ -12,9 +12,9 @@
 
 <h3 align="left">Languages:</h3>
  
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=white"></a>
-   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=plastic"></a>
   
   
   
