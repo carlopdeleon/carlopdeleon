@@ -20,7 +20,7 @@
   
 <h3 align="left">Libraries:</h3>
 
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-225366.svg?logo=numpy&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=plastic"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2A677F.svg?logo=pandas&logoColor=white&style=plastic"></a>
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-337C99.svg?logo=matplotlib-python&logoColor=white&style=plastic"></a>
   <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=pandas&logoColor=white&style=plastic"></a>
@@ -30,7 +30,7 @@
  
 <h3 align="left">Database Language:</h3>
 
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=black&style=plastic"></a>
   
 <h3 align="left">Tools:</h3>
 
