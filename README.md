@@ -1,5 +1,5 @@
 # Hi there, I'm Carlo! 👋
-### Data Scientist | Veteran | Anime Enthusiast
+### Data Scientist | Veteran | Anime Enthusiast | Mediocre Chess Player
 
 [![Linkedin Badge](https://img.shields.io/badge/-carlopdeleon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlopdeleon/)](https://www.linkedin.com/in/carlopdeleon/) 
 [![Gmail Badge](https://img.shields.io/badge/-carlopdeleon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlopdeleon@gmail.com)](mailto:carlopdeleon@gmail.com)
