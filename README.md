@@ -30,15 +30,15 @@
  
 <h3 align="left">Database Language:</h3>
 
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EEFAFF.svg?logo=mysql&logoColor=white&style=plastic"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=plastic"></a>
   
 <h3 align="left">Tools:</h3>
 
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=plastic"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white&style=plastic"></a>
-<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-25454C.svg?logo=tableau&logoColor=white&style=plastic"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white&style=plastic"></a>
-<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-7ce8ff.svg?logo=Trello&logoColor=white&style=plastic"></a>
+<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=plastic"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic"></a>
+<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white&style=plastic"></a>
 <a href="#"><img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=plastic"></a>
 
 
