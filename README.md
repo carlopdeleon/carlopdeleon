@@ -45,7 +45,7 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white&style=plastic"></a>
 <a href="#"><img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=plastic"></a>
-<a href="#"><img alt="Colab" src="https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=white&style=plastic"></a>
+<a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=plastic"></a>
 
 
 
